@@ -1,0 +1,28 @@
+unit uClsConexoes;
+
+interface
+
+type
+  TuserConnect = class
+
+  private
+    FID: string;
+    Fpassword: string;
+    Fmainsockethandle: integer;
+    Fapelido: string;
+    Fdatahora: tDatetime;
+    Fdata: tObject;
+    FdataPrinc: Tobject;
+  public
+  property ID: string read FID write FID;
+  property password: string read Fpassword write Fpassword;
+  property mainsockethandle: integer read Fmainsockethandle write Fmainsockethandle;
+  property apelido: string read Fapelido write Fapelido;
+  property datahora: tDatetime read Fdatahora write Fdatahora;
+  property data: tObject read Fdata write Fdata;
+  property dataPrinc: Tobject read FdataPrinc write FdataPrinc;
+  end;
+
+implementation
+
+end.

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/01 09:49:36.000.035,=C:\AllaKore\Source\Units\rtcScrUtils.pas</Transaction>
+    <Transaction>2021/06/01 09:53:43.000.784,=C:\AllaKore\Source\Units\rtcWinLogon.pas</Transaction>
+    <Transaction>2021/06/01 09:59:25.000.388,C:\AllaKore\Source\Units\rtcScrUtils.pas=</Transaction>
+    <Transaction>2021/06/01 09:59:29.000.713,C:\AllaKore\Source\Units\rtcWinLogon.pas=</Transaction>
+    <Transaction>2021/06/02 10:51:09.000.014,=C:\AllaKore\Source\Client\Unit1.pas</Transaction>
+    <Transaction>2021/06/02 10:51:36.000.777,C:\AllaKore\Source\Units\uClsMouseSendRec.pas=C:\AllaKore\Source\Client\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

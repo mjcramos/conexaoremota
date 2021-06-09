@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/19 06:14:31.000.830,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/20 17:05:51.000.103,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/29 08:33:22.000.222,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/27 00:08:59.000.952,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/28 21:17:19.000.295,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/28 21:21:50.000.831,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/28 21:46:07.000.376,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/29 09:04:55.000.038,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 13:53:34.000.393,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 13:54:05.000.353,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\AllaKore\novo\server\uMain.dfm</Transaction>
+    <Transaction>2021/05/30 13:54:05.000.353,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\AllaKore\novo\server\uMain.pas</Transaction>
+    <Transaction>2021/05/30 13:54:09.000.671,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\AllaKore\novo\server\Server.dproj</Transaction>
+    <Transaction>2021/05/30 14:21:54.000.329,=C:\AllaKore\novo\server\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 14:22:15.000.033,C:\AllaKore\novo\server\Unit1.pas=C:\AllaKore\novo\server\uClsConexoes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
